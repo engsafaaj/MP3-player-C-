@@ -1,0 +1,11 @@
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe.config
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.pdb
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csprojResolveAssemblyReference.cache
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Form1.resources
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Properties.Resources.resources
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.GenerateResource.Cache
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.exe
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.pdb
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\NAudio.dll
+c:\users\safaj\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\NAudio.xml
